@@ -1,0 +1,9 @@
+cgcef-verify (1956-cb-author-release) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Mon, 04 Aug 2014 16:13:41 +0000
