@@ -1,0 +1,15 @@
+Source: cgcef-verify
+Maintainer: Mike <mikef@kududyn.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.4
+Build-Depends: libcgcef0, debhelper (>= 9)
+
+Package: cgcef-verify
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libcgcef0
+Description: Verify executables are in the proper CGC Executable Format.
+ Uses libcgcef0 to verify a binary follows the specified requirements for the
+ executable, including specified section requirements.
+ Challenge binaries that do not pass verification from this tool may be
+ rejected during the Cyber Grand Challenge.
