@@ -1,0 +1,9 @@
+cgcef-verify (2487-scored-event-2) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Rewrite in python
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Fri, 24 Oct 2014 14:27:33 +0000
