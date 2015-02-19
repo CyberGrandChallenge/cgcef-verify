@@ -1,0 +1,9 @@
+cgcef-verify (3739-cqe) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Rewrite in python
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Wed, 11 Feb 2015 07:07:13 +0000
