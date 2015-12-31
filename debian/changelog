@@ -1,0 +1,9 @@
+cgcef-verify (8387-cfe-rc3) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Rewrite in python
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Fri, 18 Dec 2015 19:54:14 +0000
