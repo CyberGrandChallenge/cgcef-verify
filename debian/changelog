@@ -1,0 +1,9 @@
+cgcef-verify (10206-cfe-rc6) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Rewrite in python
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Tue, 12 Jul 2016 14:39:41 +0000
